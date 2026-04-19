@@ -1,0 +1,8 @@
+Package: nemo-sushi-preview
+Version: 1.0
+Architecture: all
+Maintainer: Luciano Pereira <lucianopereira@posteo.es>
+Depends: nemo, nemo-python, gnome-sushi
+Description: Sushi file preview for Nemo
+ Adds a spacebar shortcut and right-click action to preview files
+ with GNOME Sushi in the Nemo file manager.
